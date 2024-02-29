@@ -17,7 +17,7 @@ namespace NotePad
         private bool isSaved = false;
         private bool isSavedAs = false;
         private string filePath = "";
-        ///private PrintDocument documentToPrint = new PrintDocument();
+        
 
         private DialogResult MessageBoxYesNo(string text1, string text2)
         {
